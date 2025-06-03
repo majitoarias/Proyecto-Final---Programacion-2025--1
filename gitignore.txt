@@ -1,0 +1,7 @@
+06 - dataset_limpio.csv
+06 - dataset_valores_nulos.csv
+create_dataset.py
+modelo_linearsvc.pkl
+modelo_random_forest.pkl
+scaler_svm.pkl
+
